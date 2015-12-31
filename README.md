@@ -9,26 +9,31 @@ Time spent: 6 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] Added custom app icon.
+- [x] Added custom app icon.
+- [x] Used custom colors and fonts.
 
 ## Video Walkthrough 
+ 
+ Here's a walkthrough of implemented user stories:
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/9sxXK9B.gifv' title='iOS Prework Walkthrough' width='' alt='iOS Prework Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+ <img src='http://i.imgur.com/9sxXK9B.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ 
+ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It took me a while to figure out how to add the app icon.  It was interesting working with Swift.
+It was challenging figuring out how to add the app icon, but once I understood the process, it was fairly simple.
 
 ## License
 
